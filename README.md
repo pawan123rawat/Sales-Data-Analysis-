@@ -1,6 +1,6 @@
 # Sales-Data-Analysis-
+Power BI Project
 
-📊 Sales Data Analysis – Power BI Project
 🔍 Key Insights
 Total Sales: ₹2.98M | Total Profit: ₹529K | Profit Margin: 17.76%
 Top Segment: Corporate (Profit Margin: 19.7%)
